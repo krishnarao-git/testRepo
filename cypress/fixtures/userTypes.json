@@ -1,0 +1,46 @@
+{
+  "admin": {
+    "client_id": "te_frontend",
+    "username": "te_admin",
+    "password": "qwerty",
+    "grant_type": "password"
+  },
+  "customer": {
+    "client_id": "te_frontend",
+    "username": "te_customer",
+    "password": "qwerty",
+    "grant_type": "password"
+  },
+  "invalidCredentials": {
+    "client_id": "te_frontend",
+    "username": "Lorem",
+    "password": "12345",
+    "grant_type": "password"
+  },
+  "contractor": {
+    "client_id": "te_frontend",
+    "username": "te_contractor",
+    "password": "qwerty",
+    "grant_type": "password"
+  },
+  "invalidClientID": {
+    "client_id": "67889900990",
+    "username": "te_admin",
+    "password": "qwerty",
+    "grant_type": "password"
+  },
+  "invalidGrantType": {
+    "client_id": "te_frontend",
+    "username": "te_admin",
+    "password": "qwerty",
+    "grant_type": "Lorem123"
+  },
+  "logout": {
+    "client_id": "te_frontend",
+    "refresh_token": ""
+  },
+  "invalidLogout": {
+    "client_id": "678899009ABDH",
+    "refresh_token": ""
+  }
+}

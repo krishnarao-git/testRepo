@@ -1,0 +1,33 @@
+{
+  "text": "2.0 Tests Results",
+  "attachments": [
+    {
+      "color": "#2eb886",
+      "fields": [
+        {
+          "title": "Amount of Tests",
+          "value": "",
+          "short": false
+        },
+        {
+          "title": ":white_check_mark:   PASSED",
+          "value": "",
+          "short": true
+        },
+        {
+          "title": ":x:   FAILED",
+          "value": "",
+          "short": true
+        }
+      ],
+      "actions": [
+        {
+          "type": "button",
+          "text": "Open Web Results",
+          "style": "primary",
+          "url": "http://example.com"
+        }
+      ]
+    }
+  ]
+}

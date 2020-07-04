@@ -1,0 +1,11 @@
+{
+  "authKeycloak": "http://127.0.0.1:8080/auth/realms/TaskEasy/protocol/openid-connect/token",
+  "logout": "http://127.0.0.1:8080/auth/realms/TaskEasy/protocol/openid-connect/logout",
+  "qualityControlRejectionReasons": "/qualityControlRejectionReasons/",
+  "qualityControlDeterminations": "/qualityControlDeterminations/",
+  "serviceItem": "/serviceItems/",
+  "qualityControlResult": "/qualityControlResults/",
+  "acceptWork": "/acceptWork/",
+  "rejectWork": "/rejectWork/",
+  "order": "/orders/"
+}

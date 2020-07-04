@@ -1,0 +1,197 @@
+{
+  "userId": 1234567,
+  "starRating": 2,
+  "serviceItemId": 123456,
+  "rejectedDeterminationId": 123456789,
+  "acceptedDeterminationId": 123456798,
+  "comment": "Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit",
+  "updateStarRating": 4,
+  "updateComment": "Lorem ipsum dolor sit am'et Lorem ipsum dolor sit",
+  "invalidToken": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJ4ZDUzU0YxS1VlalZFTGw0dUJuS0dqd1MzTEdZNjV2aGJ1VzkzOTh2ODZJIn0.eyJleHAiOjE1ODg0MTMwMTAsImlhdCI6MTU4ODQxMjcxMCwianRpIjoiOTBkMzFkYzItMzUzMC00ODQ0LTg0MWMtZTNlMmQxZjMwYTQ5IiwiaXNzIjoiaHR0cHM6Ly9pZGVhbDQ2LmxvY2FsL2F1dGgvcmVhbG1zL1Rhc2tFYXN5IiwiYXVkIjpbInRlX2NsaWVudF9hcGkiLCJhY2NvdW50Il0sInN1YiI6IjNiM2VkNGQ4LTliZGYtNDkwNS1hMWM0LTU1N2Q3MmM2NGE4NCIsInR5cCI6IkJlYXJlciIsImF6cCI6InRlX2Zyb250ZW5kIiwic2Vzc2lvbl9zdGF0ZSI6IjRmZTM4Yjg5LTE2NTEtNDcwOC05NmQxLTUxYjBkMzg4NWM1NSIsImFjciI6IjEiLCJhbGxvd2VkLW9yaWdpbnMiOlsiaHR0cDovL2xvY2FsaG9zdDo0MjAwIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ0ZV9hZG1pbiIsIm9mZmxpbmVfYWNjZXNzIiwidW1hX2F1dGhvcml6YXRpb24iXX0sInJlc291cmNlX2FjY2VzcyI6eyJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJzY29wZSI6InRlX3NjaGVkdWxpbmdfbWdtdCB0ZV93cml0ZWFjY2Vzc19wcm9wZXJ0aWVzIHRlX2RvY3VtZW50cyBwcm9maWxlIGVtYWlsIHRlX3JlYWRhY2Nlc3NfcHJvcGVydGllcyB0ZV9zY2hlZHVsaW5nX3VzZXIgdGVfcGVyZm9ybWFuY2VfYXNzZXNzbWVudCB0ZV93ZWF0aGVyIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJjbGllbnQiOnsiY2xpZW50X2lkIjoxMjM0NTZ9LCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ0ZV9hZG1pbiJ9.FLa-pYcszemdczdki_WRpwqlFYFU-x0LAYsmIQhz_TYmzjPDLgivvuHIY5R4g5w0rkYRTB1OWA_GdzYCWEWcLjVyKFcoZpxPN6jDOtopfsl5XIXKAZSXsK23fQTBW-o-GIZRIz9TS3Xu477ardaPhnqCy7QmE0sY_-H4GjkxxP9vc_vsBjJm2umxn_ke0MqtO5wE_tf4mOnmLRAUbVCpeAxnu1hXbbY0NV7V1cLgpH0Q8DaiXuDW_9qt4tmqN5gg2dIvIQSAyPmJPvPPEzoI",
+  "invalidStringRange": "Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et  Lorem ipsum dolor sit am'et Lorem ipsum dolor sit  Lorem ipsum dolor sit am'et Lorem ipsum dolor sit  Lorem ipsum dolor sit am'et Lorem ipsum dolor sit  Lorem ipsum dolor sit am'et Lorem ipsum dolor sit  Lorem ipsum dolor sit am'et Lorem ipsum dolor sit",
+  "invalidServiceItemId": 64678665,
+  "invalidIdInt": 54765565656565656565,
+  "zeroId": 0,
+  "invalidString": "Lorem",
+  "invalidQualityControlResultsId": 64678,
+  "invalidStarRatingInt": 20,
+  "invalidServiceTypeIdsInt": [
+    79766548686868693266,
+    79766548949595050505,
+    23636774747474855859
+  ],
+  "invalidServiceTypeIdsZero": [0, 0, 12],
+  "invalidDeterminationId": 8689696,
+  "name": "reason one",
+  "description": "ipsum dolor sit Lorem ipsum",
+  "serviceTypeIds": [123, 885, 234, 123],
+  "invalidRejectionReasonId": 869969,
+  "updateServiceTypeIds": [123, 86, 99, 123],
+  "updateName": "ipsum dolor",
+  "updateDescription": "ipsum dolor Lorem ipsum Lorem ipsum Lorem ipsum",
+  "invalidComment": "Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit am'et Lorem ipsum dolor sit",
+  "order": {
+    "OrderId": "",
+    "OrderNumber": "12345",
+    "OrderDate": "2020-02-23T16:52:23z",
+    "OrderStatus": "Active"
+  },
+
+  "bundle": [
+    {
+      "BundleReference": "1"
+    }
+  ],
+
+  "packages": [
+    {
+      "PackageName": "Lawn Service Premium",
+      "PackageDisplayName": "",
+      "NS_ItemNameNumber": "",
+      "ProductCode": "MOWPREMIUM",
+      "RecurrenceType": "Initial",
+      "Description": "Full service lawn care including mowing, string trimming, steel blade edging, blowing, and debris removal.",
+      "TaxCode": "",
+      "Schedule": "14,16,18-36,38,40",
+      "CustomerPrice": 87.24,
+      "ContractorPayout": 56.5,
+      "GLInsurance": 3.25,
+      "OAInsurance": 1.75,
+      "Estimated Sales Tax Amount": 14.75,
+      "EstimatedEffort": 150
+    }
+  ],
+
+  "serviceTypes": [
+    {
+      "Name": "",
+      "ProductCode": "",
+      "ContractorDescription": "Specific requirements of the service one.",
+      "AdditionalInstructions": ""
+    },
+    {
+      "Name": "",
+      "ProductCode": "",
+      "ContractorDescription": "Specific requirements of the service two.",
+      "AdditionalInstructions": ""
+    }
+  ],
+
+  "photoSetsOne": [
+    {
+      "PhotoId": "1",
+      "PhotoDescription": "Front with House Number"
+    },
+    {
+      "PhotoId": "237",
+      "PhotoDescription": "Active mowing shot"
+    }
+  ],
+
+  "photoSetsTwo": [
+    {
+      "PhotoId": "2",
+      "PhotoDescription": "Backent with House Number"
+    },
+    {
+      "PhotoId": "37",
+      "PhotoDescription": "Flower bed post-clean"
+    }
+  ],
+
+  "customer": {
+    "CustomerId": "001000000000231",
+    "Name": "John Smith",
+    "ContactFirstName": "John",
+    "ContactLastName": "Smith",
+    "email": "jsmith@taskeasy.com",
+    "Phone": "(555) 555-5555"
+  },
+  "asset": {
+    "SF_PropertyId": "00D00000000143",
+    "CU_PropertyId": "",
+    "TE_PropertyId": "",
+    "TE_TracingId": "aed5487",
+    "Address": "123 Easy Street",
+    "City": "New York",
+    "State": "NY",
+    "PostalCode": "10003",
+    "Latitude": "234.234565",
+    "Longitude": "47.235485",
+    "Metrics_Lawn": 2700.25,
+    "Metrics_Driveway": 350,
+    "Metrics_FlowerBeds": 125,
+    "AccessInstructions": "32k characters",
+    "GateCode": "255 character"
+  },
+  "requiredCustomerStartDate": "null",
+  "requiredCustomerEndDate": "null",
+  "WorkOrderReference": "",
+  "contractor": {
+    "ContractorName": "",
+    "ContractorId": "001000000000111",
+    "PrimaryContactFirstName": "",
+    "PrimaryContactLastName": ""
+  },
+  "workCrewId": "001000000000123",
+  "customerAdditionalCSVFields": [
+    {
+      "Id": "Customer1",
+      "Label": "CustomerCustomField",
+      "Value": "1"
+    }
+  ],
+  "orderAdditionalCSVFields": [
+    {
+      "Id": "1",
+      "Label": "ClientCustomOrderValue",
+      "Value": "KD45267"
+    }
+  ],
+  "packageAdditionalCSVFields": [
+    {
+      "Id": "1",
+      "Label": "ClientCustomOrderValue",
+      "Value": "KD45267"
+    },
+    {
+      "Id": "2",
+      "Label": "ClientCustomOrderValue",
+      "Value": "KD45267"
+    },
+    {
+      "Id": "3",
+      "Label": "ClientCustomOrderValue",
+      "Value": "KD45267"
+    },
+    {
+      "Id": "4",
+      "Label": "ClientCustomOrderValue",
+      "Value": "KD45267"
+    }
+  ],
+  "customerId": "00000000111",
+  "sfPropertyId": "00000000123",
+  "tePropertyId": "00000000121",
+  "accessInstructions": "50k characters",
+  "gateCode": "255 character",
+  "invalidOrderJson": {
+    "OrderId": 46543465476463463
+  },
+  "nullId": "",
+  "orderId": 46543465476463463,
+  "orderNumber": "12345",
+  "orderDate": "2020-07-23T16:52:23z",
+  "invalidCustomerJson": {
+    "Name": "John Smith"
+  },
+  "invalidAssetJson": {
+    "SF_PropertyId": "00D00000000AAA"
+  },
+  "emptyJson": {},
+  "invalidBundle": [
+    {
+      "BundleReference": "1"
+    }
+  ]
+}
